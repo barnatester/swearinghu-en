@@ -1,25 +1,17 @@
 balfasz
-balfék
-fék
-fütty
 basz
 fasz
 rábaszni
 megbaszni
 bebaszni
 kibaszni
-nyasgem
 nyald ki
 seggem
 segg
-fenébe
-csudába
 kurva
-manóba
-basszus
 kapd be
 anyád
-lukamat
+lukam
 lyukam
 szar
 baszva
@@ -54,3 +46,4 @@ szarjál
 kurvaistenfaszát
 rák
 büdös seggű
+pina
